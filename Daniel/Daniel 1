@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 40px;
+            background-color: #fcfbf7; /* Antique/Paper look */
+            color: #333333;
+        }
+
+        .bible-container {
+            max-width: 650px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 40px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+            border-radius: 4px;
+            border: 1px solid #e0dcd3;
+        }
+
+        .chapter-number {
+            font-size: 3em;
+            font-weight: bold;
+            color: #a82c2c; /* Classic dark red */
+            float: left;
+            line-height: 1;
+            margin-right: 15px;
+            margin-top: -5px;
+        }
+
+        .verse-text {
+            font-size: 1.1em;
+            text-align: justify;
+            text-justify: inter-word;
+        }
+
+        .verse-number {
+            font-size: 0.85em;
+            font-weight: bold;
+            color: #a82c2c;
+            vertical-align: super;
+            margin-right: 4px;
+        }
+
+        .spoken-word {
+            /* 
+               Red letter formatting is traditionally used only for Jesus in the New Testament.
+               If you want to make God's spoken words red, you would uncomment the line below:
+               color: #d32f2f;
+            */
+            color: inherit; 
+        }
+    </style>
+</head>
+<body>
+
+<div class="bible-container">
+    <span class="chapter-number">1</span>
+    <div class="verse-text">
+        <span class="verse-number">1</span>In the third year that Jehoiakim was king of Judah, King Nebuchadnezzar of Babylonia attacked Jerusalem.
+        <span class="verse-number">2</span>The Lord let Nebuchadnezzar capture Jehoiakim and take away some of the things used in God's temple. And when the king returned to Babylonia, he put these things in the temple of his own god.
+        <span class="verse-number">3</span>One day the king ordered Ashpenaz, his highest palace official, to choose some young men from the royal family of Judah and from other leading Jewish families.
+        <span class="verse-number">4</span>The king said, “They must be healthy, handsome, clever, wise, educated, and fit to serve in the royal palace. Teach them how to speak and write our language
+        <span class="verse-number">5</span>and give them the same food and wine that I am served. Train them for three years, and then they can become court officials.”
+        <span class="verse-number">6</span>Four of the young Jews chosen were Daniel, Hananiah, Mishael, and Azariah, all from the tribe of Judah.
+        <span class="verse-number">7</span>But the king's chief official gave them Babylonian names: Daniel became Belteshazzar, Hananiah became Shadrach, Mishael became Meshach, and Azariah became Abednego.
+        <span class="verse-number">8</span>Daniel made up his mind to eat and drink only what God had approved for his people to eat. And he asked the king's chief official for permission not to eat the food and wine served in the royal palace.
+        <span class="verse-number">9</span>God had made the official friendly and kind to Daniel.
+        <span class="verse-number">10</span>But the man still told him, “The king has decided what you must eat and drink. And I am afraid he will kill me, if you eat something else and end up looking worse than the other young men.”
+        <span class="verse-number">11</span>The king's official had put a guard in charge of Daniel and his three friends. So Daniel said to the guard,
+        <span class="verse-number">12</span>“For the next ten days, let us have only vegetables and water at mealtimes.
+        <span class="verse-number">13</span>When the ten days are up, compare how we look with the other young men, and decide what to do with us.”
+        <span class="verse-number">14</span>The guard agreed to do what Daniel had asked.
+        <span class="verse-number">15</span>Ten days later, Daniel and his friends looked healthier and better than the young men who had been served food from the royal palace.
+        <span class="verse-number">16</span>After this, the guard let them eat vegetables instead of the rich food and wine.
+        <span class="verse-number">17</span>God made the four young men clever and wise. They read a lot of books and became well educated. Daniel could also tell the meaning of dreams and visions.
+        <span class="verse-number">18</span>At the end of the three year period set by King Nebuchadnezzar, his chief palace official brought all the young men to him.
+        <span class="verse-number">19</span>The king interviewed them and discovered that none of the others were as outstanding as Daniel, Hananiah, Mishael, and Azariah. So they were given positions in the royal court.
+        <span class="verse-number">20</span>From then on, whenever the king asked for advice, he found their wisdom was ten times better than that of any of his other advisers and magicians.
+        <span class="verse-number">21</span>Daniel served there until the first year of King Cyrus.
+    </div>
+</div>
+
+</body>
+</html>
